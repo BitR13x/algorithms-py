@@ -2,7 +2,7 @@ Again, do not just memorize these algorithms and think you are suddenly a better
 
 
 https://medium.com/codesphere-cloud/10-algorithms-every-developer-should-learn-628faf0f9234
-
+https://www.youtube.com/c/CSDojo
 
 Recursion
 Store (Memoize)
