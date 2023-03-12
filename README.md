@@ -2,22 +2,22 @@ Again, do not just memorize these algorithms and think you are suddenly a better
 
 #### Sources:
 
-https://medium.com/codesphere-cloud/10-algorithms-every-developer-should-learn-628faf0f9234
-https://www.youtube.com/c/CSDojo
-https://www.geeksforgeeks.org/
-https://openai.com/
+- https://medium.com/codesphere-cloud/10-algorithms-every-developer-should-learn-628faf0f9234
+- https://www.youtube.com/c/CSDojo
+- https://www.geeksforgeeks.org/
+- https://openai.com/
 
-#### Programming Techniques:
+### Programming Techniques:
 
-1. ##### Recursion
+1. #### Recursion
 
 - Function calls itself to solve a problem.
 
-2. ##### Store (Memoization)
+2. #### Store (Memoization)
 
 - Speed up recursive functions by caching the results of function calls.
 
-3. ##### Bottom-up Solutions
+3. #### Bottom-up Solutions
 
 - Iterative solutions that build up a solution to a problem from smaller subproblems.
 - They are often used in dynamic programming.
