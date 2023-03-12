@@ -1,0 +1,13 @@
+# vscode
+.lh
+.vscode
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Testing
+test.py
+test.ipynb
